@@ -44,6 +44,7 @@ _Attendance_: Due to the nature of the course structure, students are expected t
 
 _Grading_:
 
+|                 |                 |
 |-----------------|-----------------|
 | A  ≥ 92 – 100   | C+ ≥ 77 - <80   |
 | A- ≥ 90 - <92   |	C  ≥ 72 - <77   |
