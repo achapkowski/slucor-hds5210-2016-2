@@ -12,6 +12,7 @@
 Students will be introduced to concepts in computer programming using the Python programming language. Students will learn to conceptualize steps required to perform a task, manipulate files, create loops, and functions. By the end of this course, students will have a basic understanding of computer programming, a working knowledge of the Python programming language, and they will be able to share their scripts to collaborate with other team members.
 
 Upon completion of the course, students will:
+
 1. Understand fundamental concepts in computer science.
 2. Compose programs for data acquisition and processing with Python.
 3. Collaborate and share scripts with other students.
