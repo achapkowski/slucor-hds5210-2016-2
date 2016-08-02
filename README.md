@@ -105,18 +105,23 @@ Students with disabilities who believe that they may need accommodations in this
 ## Supplemental Resources
 
 The Command Line:
- Linux / MacOS Command Line - http://linuxcommand.org/learning_the_shell.php
+
+* Linux / MacOS Command Line - http://linuxcommand.org/learning_the_shell.php
 
 Using Git and Github:
- https://guides.github.com/activities/hello-world/
+
+* https://guides.github.com/activities/hello-world/
 
 XML and XPath with Python:
- XML - https://www.youtube.com/watch?v=rFxXDO8-keg
- XPath - https://www.youtube.com/watch?v=q9FmMXrdeqY
+
+* XML - https://www.youtube.com/watch?v=rFxXDO8-keg
+* XPath - https://www.youtube.com/watch?v=q9FmMXrdeqY
 
 JSON with Python:
- JSON - https://www.youtube.com/watch?v=Y5dU2aGHTZg
+
+* JSON - https://www.youtube.com/watch?v=Y5dU2aGHTZg
 
 Regular Expressions:
- Introduction to Regular Expressions -
- Regular Expressions in Python - https://docs.python.org/3.5/howto/regex.html
+
+* Introduction to Regular Expressions -
+* Regular Expressions in Python - https://docs.python.org/3.5/howto/regex.html
