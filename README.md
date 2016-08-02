@@ -92,7 +92,7 @@ Students with disabilities who believe that they may need accommodations in this
 | 5       | 9/21  | Python Modules            | (Gries Ch 6, 7) |
 | 6       | 9/28  | Data Structures and Loops | (Gries Ch 8, 9) |
 | 7       | 10/5  | Files and the Internet    | (Gries Ch 10)   |
-| Exam I  | 10/12 | Midterm Exam              |                 |
+| Exam I  | 10/12 | **Midterm Exam**          |                 |
 | 8       | 10/19 | Data Structures           | (Gries Ch 11)   |
 | 9       | 10/26 | Working with XML and JSON | TBA             |
 | 10      | 11/2  | Algorithms                | (Gries Ch 12)   |
@@ -100,4 +100,23 @@ Students with disabilities who believe that they may need accommodations in this
 | 12      | 11/16 | Database Fundamentals     | (Gries Ch 17)   |
 | 13      | 11/23 | THANKSGIVING BREAK        |                 |
 | 14      | 11/30 | Testing and Debugging     | (Gries Ch 15)   |
-| Exam II | 12/7  | Final Exam                |                 |
+| Exam II | 12/7  | **Final Exam**            |                 |
+
+## Supplemental Resources
+
+The Command Line:
+ Linux / MacOS Command Line - http://linuxcommand.org/learning_the_shell.php
+
+Using Git and Github:
+ https://guides.github.com/activities/hello-world/
+
+XML and XPath with Python:
+ XML - https://www.youtube.com/watch?v=rFxXDO8-keg
+ XPath - https://www.youtube.com/watch?v=q9FmMXrdeqY
+
+JSON with Python:
+ JSON - https://www.youtube.com/watch?v=Y5dU2aGHTZg
+
+Regular Expressions:
+ Introduction to Regular Expressions -
+ Regular Expressions in Python - https://docs.python.org/3.5/howto/regex.html
