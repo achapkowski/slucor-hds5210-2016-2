@@ -105,7 +105,6 @@ Students with disabilities who believe that they may need accommodations in this
 ## Supplemental Resources
 
 The Command Line:
-
 * Linux / MacOS Command Line - http://linuxcommand.org/learning_the_shell.php
 
 Using Git and Github:
