@@ -43,6 +43,7 @@ _Late work_: SLUCOR's policy is to not accept late work submissions. Students wi
 _Attendance_: Due to the nature of the course structure, students are expected to attend every class period. For each absence, 5% will be deducted from the student's final grade.
 
 _Grading_:
+|                 |                 |
 |-----------------|-----------------|
 | A  ≥ 92 – 100   | C+ ≥ 77 - <80   |
 | A- ≥ 90 - <92   |	C  ≥ 72 - <77   |
