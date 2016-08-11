@@ -1,4 +1,4 @@
-_HDS510: Programming for Health Data Scientists_
+_HDS5w10: Programming for Health Data Scientists_
 
 Getting Started with GitHub
 ===

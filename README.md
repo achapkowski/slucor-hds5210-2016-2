@@ -1,4 +1,4 @@
-# SLUCOR HDS510 - Programming for Health Data Science - 2016 Fall
+# SLUCOR HDS5210 - Programming for Health Data Science - 2016 Fall
 
 ## Full Syllabus
 Available [here in SYLLABUS.md](SYLLABUS.md)
