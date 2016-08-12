@@ -14,3 +14,8 @@ Anyone with an email address can sign up for a GitHub.com account entirely for f
 You can use Git, the source control software behind GitHub.com, on any computer where you can install software. None of our class work will require you to use your own computer to access GitHub.com or the Python programming language that we'll be using. All of our course work can be done just using a web browser. If you are interested in using Git on your personal computer, though, these resources can help you get started:
 * https://help.github.com/articles/set-up-git/ - The basic Git desktop client software is available here.
 * https://www.atlassian.com/software/sourcetree - SourceTree is a desktop client for Git and is easily configurable for GitHub.com.
+
+3 - Course Materials
+---
+The content for this course can be found in the GitHub.com project here https://github.com/paulboal/slucor-hds510-2016-2
+
