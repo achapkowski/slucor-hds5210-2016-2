@@ -1,4 +1,4 @@
-_HDS5w10: Programming for Health Data Scientists_
+_HDS5210: Programming for Health Data Scientists_
 
 Getting Started with GitHub
 ===
@@ -17,5 +17,5 @@ You can use Git, the source control software behind GitHub.com, on any computer 
 
 3 - Course Materials
 ---
-The content for this course can be found in the GitHub.com project here https://github.com/paulboal/slucor-hds510-2016-2
+The content for this course can be found in the GitHub.com project here https://github.com/paulboal/slucor-hds5210-2016-2
 
