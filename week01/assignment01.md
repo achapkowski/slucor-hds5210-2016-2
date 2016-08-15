@@ -13,7 +13,7 @@ There won't be anything to submit for #1, but the log files will show who has an
 2. Sign-on to https://jupyter.slucor.net/hub/login using your new GitHub.com account
 3. Create a new notebook called "week01-`username`" for the assignments below
 
-Two Rules
+Two Rules for every class
 ---
 1. All of your assignment notebooks should be named using the same consistent format: "week##-username".  You'll lose points if they aren't named correctly.
 2. At the top of each notebook cell, include the problem number and title as a comment in your code.
