@@ -16,7 +16,9 @@ https://github.com/paulboal/slucor-hds5210-2016-2/blob/master/week02/setup-githu
 
 #2 - Create a GitHub repository
 ---
+
 Starting at http://github.com follow these instructions to create a new repository:
+
 1. Click the green `New repository` button on the right side of the screen most of the way down.
 2. Name your repository `hds5210-week02`
 3. Make it a private repository _if that option is available_
@@ -31,14 +33,17 @@ If you were able to create a private repository, follow these additional steps.
 #3 - Clone this repository and add a new .ipynb file
 ---
 Go into Jupyter and follow these instructions to clone this repository and then create a new notebook inside of it.
+
 1. Click the `Launch Shell` button
 2. Click `Connect`
 3. Type in your gitlab username and `P@SSw0rd` for you password to login
 4. Follow the commands below using your own gitlab username
+
 ```
 cd notebooks
 git clone git@github.com:paulboal/hds5210-week02.git
 ```
+
 5. Back in Jupyter, choose `File->Open`
 6. Navigate into your new project directory
 7. Click `New` and select `Python 3`
