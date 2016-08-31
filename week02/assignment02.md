@@ -54,7 +54,9 @@ Do all the rest of these exercises within that new notebook you created.
 ---
 In that new notebook, solve the following problem:
 
-According to http://health.costhelper.com/tonsil-removal.html, the average cost of a tonsillectomy is $5,442 for someone paying out of pocket without insurance.  The out of pocket cost for someone with a typical insurance plan is about $2,000.  If 2% of 10 to 14 year old kids in Missouri get their tonsils removed this year, and only 50% of those families are covered by insurance, what is the total out of pocket cost for tonsillectomies for Missouri families for this year.  Use https://suburbanstats.org/population/how-many-people-live-in-missouri as your source for the number of 10 to 14 year olds in Missouri.
+According to http://health.costhelper.com/tonsil-removal.html, the average cost of a tonsillectomy is $5,442 for someone paying out of pocket without insurance.  The out of pocket cost for someone with a typical insurance plan is about $2,000.  If 2% of 10 to 14 year old kids in Missouri get their tonsils removed this year, and only 50% of those families are covered by insurance, what is the total out of pocket cost for tonsillectomies for Missouri families for this year.  
+
+Use https://suburbanstats.org/population/how-many-people-live-in-missouri as your source for the number of 10 to 14 year olds in Missouri.
 
 As usual, show your work and thought process through readable code and comments as needed.
 
