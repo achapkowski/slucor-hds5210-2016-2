@@ -8,13 +8,13 @@ References:
 * http://datascienceatthecommandline.com/
 * http://datascienceatthecommandline.com/#tools
 
-#1 Git setup
+#1 - Git setup
 ---
 Make sure that you've followed the instructions from class to setup the Juypter environment can access your GitHub.com account.
 
 https://github.com/paulboal/slucor-hds5210-2016-2/blob/master/week02/setup-github.ipynb
 
-#2 Create a GitHub repository
+#2 - Create a GitHub repository
 ---
 Starting at http://github.com follow these instructions to create a new repository:
 1. Click the green `New repository` button on the right side of the screen most of the way down.
@@ -28,7 +28,7 @@ If you were able to create a private repository, follow these additional steps.
 2. Click `Collaborators` on the left
 3. Add `paulboal` and `ewesthus` to your list of collaborators
 
-#3 Clone this repository and add a new .ipynb file
+#3 - Clone this repository and add a new .ipynb file
 ---
 Go into Jupyter and follow these instructions to clone this repository and then create a new notebook inside of it.
 1. Click the `Launch Shell` button
@@ -45,7 +45,7 @@ git clone git@github.com:paulboal/hds5210-week02.git
 8. Click `Untitled` at the top to give the notebook name: "week02-`username`"
 Do all the rest of these exercises within that new notebook you created.
 
-#4 Python Exercise 1
+#4 - Python Exercise
 ---
 In that new notebook, solve the following problem:
 
@@ -53,7 +53,7 @@ According to http://health.costhelper.com/tonsil-removal.html, the average cost 
 
 As usual, show your work and thought process through readable code and comments as needed.
 
-#5 Commit and push your work to gitlab
+#5 - Commit and push your work to gitlab
 ---
 
 1. Make sure you notebook changes above are saved.
