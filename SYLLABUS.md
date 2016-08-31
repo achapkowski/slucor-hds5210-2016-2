@@ -25,7 +25,7 @@ This is primarily a classroom-based lecture and workshop, with additional at-hom
 **Practical Programming: An Introduction to Computer Science Using Python 3 (Pragmatic Programmers) 2nd Edition**. Gries, Paul, Jennifer Campbell, and Jason Montojo. The Pragmatic Bookshelf, 2013. ISBN 978-1937785451 ($38.00)
 
 ### Supplemental Materials
-Additional reading material will be posted as electronic files to the this gitlab repository or provided as links.
+Additional reading material will be posted as electronic files to the this github repository or provided as links.
 
 ### Recommended References
 * **Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Ipython**, 2012, McKinney, Wes. ISBN 860-1400898857
