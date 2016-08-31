@@ -36,8 +36,8 @@ Go into Jupyter and follow these instructions to clone this repository and then 
 
 1. Click the `Launch Shell` button
 2. Click `Connect`
-3. Type in your gitlab username and `P@SSw0rd` for you password to login
-4. Follow the commands below using your own gitlab username
+3. Type in your github username and `P@SSw0rd` for you password to login
+4. Follow the commands below using your own github username
 
 ```
 cd notebooks
@@ -60,14 +60,14 @@ Use https://suburbanstats.org/population/how-many-people-live-in-missouri as you
 
 As usual, show your work and thought process through readable code and comments as needed.
 
-#5 - Commit and push your work to gitlab
+#5 - Commit and push your work to github
 ---
 
 1. Make sure you notebook changes above are saved.
 2. Click the `Launch Shell` button
 3. Click `Connect`
-4. Type in your gitlab username and `P@SSw0rd` for you password to login
-5. Follow the commands below using your own gitlab username
+4. Type in your github username and `P@SSw0rd` for you password to login
+5. Follow the commands below using your own github username
 ```
 git cd ~/notebooks/hds5210-week02/
 git add week02-paulboal.ipynb
