@@ -50,3 +50,10 @@ ls -l slucor-hds5210-2016-2
 
 # Introducing Python
 See lecture01.ipynb
+
+
+1. Introductions and overview of the course (30 min)
+2. Getting everyone signed up with GitLab and setup on Jupyter (30 min)
+3. An interactive / demo lecture covering the material from Ch1, Ch2 in the book (1 hr)
+4. Light lecture with examples, and discussion on why programming is important (1 hr)
+5. Explanation of the week 1 assignment
