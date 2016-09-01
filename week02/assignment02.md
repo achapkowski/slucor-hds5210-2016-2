@@ -32,14 +32,10 @@ If you were able to create a private repository, follow these additional steps.
 
 #3 - Clone this repository and add a new .ipynb file
 ---
-Go into Jupyter and follow these instructions to clone this repository and then create a new notebook inside of it.
-
-1. Click the `Launch Shell` button
-2. Click `Connect`
-3. Type in your github username and `P@SSw0rd` for you password to login
-4. Follow the commands below using your own github username
+Go into Jupyter and follow these instructions to clone this repository and then create a new notebook inside of it.  Use your github name instead of "paulboal".
 
 ```
+%%bash
 cd notebooks
 git clone git@github.com:paulboal/hds5210-week02.git
 ```
@@ -64,13 +60,11 @@ As usual, show your work and thought process through readable code and comments 
 ---
 
 1. Make sure you notebook changes above are saved.
-2. Click the `Launch Shell` button
-3. Click `Connect`
-4. Type in your github username and `P@SSw0rd` for you password to login
-5. Follow the commands below using your own github username
+2. Follow the commands below using your own github username
 ```
-git cd ~/notebooks/hds5210-week02/
+%%bash
+cd ~/notebooks/hds5210-week02/
 git add week02-paulboal.ipynb
-git commit -a -m "Adding homwork"
+git commit -a -m "Adding homework"
 git push
 ```
