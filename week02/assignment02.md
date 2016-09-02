@@ -36,7 +36,7 @@ Go into Jupyter and follow these instructions to clone this repository and then 
 
 ```
 %%bash
-cd notebooks
+cd ~/notebooks
 git clone git@github.com:paulboal/hds5210-week02.git
 ```
 
