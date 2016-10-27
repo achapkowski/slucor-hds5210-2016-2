@@ -1,14 +1,14 @@
 [
     {
-        "drug": "Aspirin",
         "mass_unit": "mg",
+        "amount": 100,
         "time_unit": "hr",
-        "amount": 100
+        "drug": "Aspirin"
     },
     {
-        "drug": "Digoxin",
         "mass_unit": "mg",
+        "amount": 50,
         "time_unit": "hr",
-        "amount": 50
+        "drug": "Digoxin"
     }
 ]
